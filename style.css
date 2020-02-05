@@ -1,0 +1,21 @@
+div{
+    margin: 0 auto;
+    background-image: linear-gradient(to top right, red, white);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.satu{
+    width: 900px;
+    height: 700px;
+    margin: 0 auto;
+    background-image: radial-gradient(ellipse at bottom, white, blue);
+}
+.dua{
+    width: 900px;
+    height: 150px;
+    margin: 0 auto;
+    background-image: radial-gradient(circle at right, white, blue, white);
+}
